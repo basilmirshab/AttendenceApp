@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Attendence App</string>
+    <string name="title_activity_event">Event</string>
+</resources>
